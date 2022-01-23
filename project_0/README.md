@@ -31,7 +31,7 @@
 ### Краткая информация о данных
 Информации нет
   
-:arrow_up:[к оглавлению](https://github.com/maniacmansion12/sf_data_sciense/tree/master/project_0/README.MD#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/maniacmansion12/sf_data_sciense/tree/master/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -40,19 +40,19 @@
 3.Написание программы [game_v3.py](https://github.com/maniacmansion12/sf_data_sciense/tree/master/project_0/game_v3.py), в которой компьютер загадывает и угадывает число от 1 до 100, в среднем за 5 попыток.
 
 
-:arrow_up:[к оглавлению](https://github.com/maniacmansion12/sf_data_sciense/tree/master/project_0/README.MD#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/maniacmansion12/sf_data_sciense/tree/master/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
 Удалось улучшить результат с 98 попыток до 5 попыток
 
-:arrow_up:[к оглавлению](https://github.com/maniacmansion12/sf_data_sciense/tree/master/project_0/README.MD#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/maniacmansion12/sf_data_sciense/tree/master/project_0/README.md#Оглавление)
 
 
 ### Выводы:  
 Выводов нет
 
-:arrow_up:[к оглавлению](https://github.com/maniacmansion12/sf_data_sciense/tree/master/project_0/README.MD#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/maniacmansion12/sf_data_sciense/tree/master/project_0/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
